@@ -8,8 +8,9 @@ def Historia():
     cenaCastelo = Cena(CASTELO)
     elementoValsa = Elemento(img=VALSA,
                             tit="amor",
-                            style=dict(left=150
+                            style=dict(left=150, top=60, width=60, height=200))
                             
+    elementoValsa.entra(cenaCastelo)                        
     cenaCastelo.vai()
 Historia()
 
