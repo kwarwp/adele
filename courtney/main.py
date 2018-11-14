@@ -7,6 +7,7 @@ def Historia():
     cenaMaracana = Cena (MARACANA)
     elementoMaracana = (img=MARACANA, 
                        tit="Torcida do Flamengo",
-                       style=dict(left=150
+                       style=dict(left=150, top=60, width=60, heigth=200))
+    elementoMaracana.entra(cenaMaracana)
     cenaMaracana.vai()
 Historia()
