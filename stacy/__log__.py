@@ -130,3 +130,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Nov 14 2018 11:34:12.54 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  elementoEsponja = Elemento(img=PRAIA,
+                                                                                                                                                                       ^
+SyntaxError: invalid syntax
+'''},
