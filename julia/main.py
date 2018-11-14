@@ -6,6 +6,10 @@ VALSA = "http://4.bp.blogspot.com/-leQ5oaWmMqw/Ua-S6mJJ4BI/AAAAAAAADTg/HhAtv_nrD
 
 def Historia():
     cenaCastelo = Cena(CASTELO)
+    elementoValsa = Elemento(img=VALSA,
+                            tit="amor",
+                            style=dict(left=150
+                            
     cenaCastelo.vai()
 Historia()
 
