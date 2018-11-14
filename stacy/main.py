@@ -6,5 +6,8 @@ ESPONJA= "http://3.bp.blogspot.com/-4u6dkIOcT9k/T9dtJr0XK0I/AAAAAAAAFcM/WQyDxu5I
 
 def Historia(): 
     cenaPraia= Cena(PRAIA)
+    elementoEsponja = elemento(img=PRAIA,
+                              tit="Bob",
+                              style=dict(left=150
     cenaPraia.vai()
 Historia()
