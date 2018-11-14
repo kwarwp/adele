@@ -7,4 +7,4 @@ JASMINE= "https://banner2.kisspng.com/20180713/zjx/kisspng-princess-jasmine-the-
 def Historia():
     cenaNoiteestrelada = Cena(NOITEESTRELADA)
     cenaNoiteestrelada.vai()
-    Historia()
+Historia()
