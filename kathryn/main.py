@@ -5,6 +5,6 @@ LONDRES = "https://mapadelondres.org/wp-content/uploads/2011/11/londres-tower-br
 HANNA = "https://png2.kisspng.com/20180525/jfu/kisspng-ashley-benson-hanna-marin-pretty-little-liars-aria-5b0844e7477e04.1931477415272685832929.png"
 
 def Historia ():
-    cenaLondres = Cena (LONDRES)
+    cenaLondres = Cena(LONDRES)
     cenaLondres.vai()
 Historia()
