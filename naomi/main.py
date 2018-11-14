@@ -5,3 +5,6 @@ PRAIA = "https://http2.mlstatic.com/mega-banner-painel-decoraco-festa-240x150-pr
 ESTRELA = "https://cdn.pixabay.com/photo/2017/06/25/10/44/isolated-2440384_960_720.png"
 
 def Historia():
+    cenaPraia = Cena(PRAIA)
+    cenaPraia.vai()
+Historia()    
