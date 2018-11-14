@@ -6,5 +6,8 @@ TANGO = "http://pluspng.com/img-png/ballroom-dancing-png-hd-learn-to-dance-salsa
 
 def Historia():
     cenaArgentina = Cena(ARGENTINA)
+    elementoTango = Elemento(img=TANGO,
+                            tit="Casal",
+                            style=dict(left=150
     cenaArgentina.vai()
 Historia()
