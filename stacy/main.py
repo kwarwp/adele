@@ -8,6 +8,7 @@ def Historia():
     cenaPraia= Cena(PRAIA)
     elementoEsponja = elemento(img=PRAIA,
                               tit="Bob",
-                              style=dict(left=150
+                              style=dict(left=123, top=91, width=60, height=200))
+    elementoEsponja.entra(cenaPraia)
     cenaPraia.vai()
 Historia()
