@@ -8,6 +8,7 @@ def Historia():
     cenaNoiteestrelada = Cena(NOITEESTRELADA)
     elementoJasmine = Elemento(img=JASMINE,
                               tit="Apaixonados",
-                              Style=dict(left=150
+                              Style=dict(left=150, top=60, width=60, height=200))
+    elementoJasmine.entra(cenaNoiteestrelada)                          
     cenaNoiteestrelada.vai()
 Historia()
