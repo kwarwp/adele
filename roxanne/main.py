@@ -8,6 +8,7 @@ def Historia():
     cenaArgentina = Cena(ARGENTINA)
     elementoTango = Elemento(img=TANGO,
                             tit="Casal",
-                            style=dict(left=150
+                            style=dict(left=150, top=60, width=60, height=200))
+    elementoTango.entra(cenaArgentina) 
     cenaArgentina.vai()
 Historia()
