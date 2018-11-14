@@ -6,5 +6,8 @@ HANNA = "https://png2.kisspng.com/20180525/jfu/kisspng-ashley-benson-hanna-marin
 
 def Historia ():
     cenaLondres = Cena(LONDRES)
+    elementoHanna = Elemento(img=HANNA,
+                             tit="Girl"
+                             style=dict(left=150
     cenaLondres.vai()
 Historia()
