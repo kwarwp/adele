@@ -6,5 +6,8 @@ ESTRELA = "https://cdn.pixabay.com/photo/2017/06/25/10/44/isolated-2440384_960_7
 
 def Historia():
     cenaPraia = Cena(PRAIA)
+    elementoEstrela = Elemento(img=ESTRELA,
+                              tit="Estrela do mar",
+                              style=dict(left=150, top=60, width=60
     cenaPraia.vai()
 Historia()    
