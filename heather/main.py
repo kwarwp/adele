@@ -14,5 +14,5 @@ def Historia():
                                   tit="Guarda Chuva",
                                   style=dict(left=150, top=60, width=60, height=200))
     cenanovayork.vai()
-    elementoGuardaChuva.entra(cenaNOVA_YORK)
+    elementoGuardaChuva.entra(cenanovayork)
 Historia()
