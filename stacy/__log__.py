@@ -81,3 +81,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Nov 14 2018 11:31:17.901 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  tit="Bob",
+  ^
+IndentationError: unexpected indent
+'''},
