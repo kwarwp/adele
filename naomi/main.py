@@ -12,7 +12,7 @@ def Historia():
                               style=dict(left=15, width=60, height=50))
     elementoConcha = Elemento(img=CONCHA,
                               tit="Concha",
-                              style=dict(left=30, widht=60, height=50))
+                              style=dict(left=22, top=30, widht=60))
     elementoEstrela.entra(cenaPraia)
     elementoConcha.entra(cenaPraia)
     cenaPraia.vai()
