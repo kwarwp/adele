@@ -11,3 +11,5 @@ def Historia():
     elementoFlamengo.entra(cenaMaracana)
     cenaMaracana.vai()
 Historia()
+txtflamengo = Texto(cenaMaracana, "Vamos Flamengo")
+elementoFlamengo.vai =txtflamengo.vai
