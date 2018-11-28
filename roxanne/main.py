@@ -10,7 +10,7 @@ def Historia():
                             tit="Casal",
                             style=dict(left=180, top=30, width='120px', height='260px'))
     elementoTango.entra(cenaArgentina) 
-    txttango = Texto(cenaArgentina,"Quem dança seus males espanta!"
+    txttango = Texto(cenaArgentina,"Quem dança seus males espanta!")
     elementoTango.vai = txttango.vai    
     cenaSamba = Cena(SAMBA, direita=cenaArgentina)
     cenaArgentina.esquerda = cenaSamba
