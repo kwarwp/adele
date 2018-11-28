@@ -122,3 +122,10 @@ NameError: name 'CenaMaracana' is not defined
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Wed Nov 28 2018 11:07:31.725 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 15
+  INVENTARIO.bota(elementoFlamengo)
+  ^
+IndentationError: expected an indented block
+'''},
