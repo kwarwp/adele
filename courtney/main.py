@@ -12,6 +12,7 @@ def Historia():
     elementoFlamengo = Elemento(img=FLAMENGO, 
                        tit="Torcida do Flamengo",
                        style=dict(left=150, width=60, heigth=70))
+    elementoBola = Elemento(img=BOLA,
     elementoFlamengo.entra(cenaMaracana)
     def botainventario():
         INVENTARIO.bota(elementoBola)
