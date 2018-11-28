@@ -28,3 +28,10 @@ SyntaxError: invalid syntax
     imagem, kwargs = (imagem, {}) if isinstance(imagem, str) \
 AttributeError: 'Cena' object has no attribute '__getitem__'
 '''},
+{'date': 'Wed Nov 28 2018 10:25:08.734 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 13
+  txttango = Texto(cenaArgentina,"Quem dança seus males espanta!"
+                                                                       ^
+SyntaxError: invalid syntax
+'''},
