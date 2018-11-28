@@ -150,3 +150,10 @@ SyntaxError: invalid syntax
                                                                                               ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Nov 28 2018 11:30:18.578 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 15
+  elementoBola = Elemento(img=BOLA,
+                                                                                              ^
+SyntaxError: invalid syntax
+'''},
