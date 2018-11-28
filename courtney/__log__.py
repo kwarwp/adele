@@ -136,3 +136,10 @@ IndentationError: expected an indented block
                                                                                     ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Nov 28 2018 11:24:57.304 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 15
+  elementoBola = Elemento(img=BOLA,
+                                                                                  ^
+SyntaxError: invalid syntax
+'''},
