@@ -13,7 +13,7 @@ def Historia():
     elementoFlamengo.entra(cenaMaracana)
     def botainventario():
         INVENTARIO.bota(elementoFlamengo)
-    txtflamengo = Texto(cenaMaracana, "Vamos Flamengo")
+    txtflamengo = Texto(cenaMaracana, "Vamos Flamengo", foi=botainventario)
     elementoFlamengo.vai =txtflamengo.vai
     cenaBAR = Cena(BAR, direita=cenaMaracana)
     cenaMaracana.esquerda = cenaBAR
