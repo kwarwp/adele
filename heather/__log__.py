@@ -49,3 +49,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Nov 28 2018 11:10:39.962 GMt-0200 -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 24
+  cenanovayork.vai()
+  ^
+IndentationError: unexpected indent
+'''},
