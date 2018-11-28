@@ -35,3 +35,10 @@ NameError: name 'cenaNOVA_YORK' is not defined
     elementoGuardaChuva.entra(cenaNOVA_YORK)
 NameError: name 'cenaNOVA_YORK' is not defined
 '''},
+{'date': 'Wed Nov 28 2018 11:09:21.76 GMt-0200 -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 23
+  cenanovayork.vai()
+  ^
+IndentationError: unexpected indent
+'''},
