@@ -129,3 +129,10 @@ IndentationError: expected an indented block
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Wed Nov 28 2018 11:20:18.82 GMt-0200 (Horário de Verão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  BAR= "https://augustonobuteco.files.wordpress.com/2011/11/dsc05501reduzida1.jpg"=
+                                                                                    ^
+SyntaxError: invalid syntax
+'''},
