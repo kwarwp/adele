@@ -16,6 +16,7 @@ def Historia():
                        tit="Bola"
                        style=dict(left=100, widht=40, height=50))
     elementoFlamengo.entra(cenaMaracana)
+    elementoBola.entra(cenaMaracana)
     def botainventario():
         INVENTARIO.bota(elementoBola)
     txtflamengo = Texto(cenaMaracana, "Vamos Flamengo", foi=botainventario)
