@@ -9,7 +9,7 @@ def Historia():
                        tit="Torcida do Flamengo",
                        style=dict(left=150, width=60, heigth=70))
     elementoFlamengo.entra(cenaMaracana)
+    txtflamengo = Texto(cenaMaracana, "Vamos Flamengo")
+    elementoFlamengo.vai =txtflamengo.vai
     cenaMaracana.vai()
 Historia()
-txtflamengo = Texto(cenaMaracana, "Vamos Flamengo")
-elementoFlamengo.vai =txtflamengo.vai
