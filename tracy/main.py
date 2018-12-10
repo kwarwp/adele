@@ -4,3 +4,5 @@ from _spy.vitollino.main import Cena
 BABY = "https://i.imgur.com/ymsBTXi.png"
 def Historia():
     cenababy = Cena(BABY)
+    cenababy.vai()
+Historia()
