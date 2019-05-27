@@ -34,3 +34,10 @@ SyntaxError: invalid syntax
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Mon May 27 2019 09:48:53.439 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  Mar = cena(img = Mar)
+  ^
+IndentationError: expected an indented block
+'''},
