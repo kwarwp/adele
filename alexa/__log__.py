@@ -15,3 +15,10 @@
     doryPeixe = Elemento(PERSONAGEM, cena = canarioHistoria)
 NameError: name 'canarioHistoria' is not defined
 '''},
+{'date': 'Tue Nov 08 2022 02:13:15.649 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 13
+  def chama_elemento(cenarioHistoria.vai()):
+                                     ^
+SyntaxError: invalid syntax
+'''},
